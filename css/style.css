@@ -1012,8 +1012,18 @@ footer form button:hover {
     .section-6 h3 {
         font-size: 20px;
     }
+    .right-bar {
+        right: -426px;
+        width: 426px;
+       
+    }
 }
 @media (max-width: 415px){
+    .right-bar {
+        right: -415px;
+        width: 415px;
+       
+    }
     .carousel-item h1 {
         font-size: 19px;
     }
@@ -1042,6 +1052,11 @@ footer form button:hover {
 }
 
 @media (max-width: 360px){
+    .right-bar {
+        right: -360px;
+        width: 360px;
+       
+    }
     .carousel-item h1 {
         font-size: 19px;
     }
