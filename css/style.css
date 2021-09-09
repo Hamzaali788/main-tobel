@@ -1013,6 +1013,33 @@ footer form button:hover {
         font-size: 20px;
     }
 }
+@media (max-width: 415px){
+    .carousel-item h1 {
+        font-size: 19px;
+    }
+    div#image1 {
+        flex-direction: column;
+    }
+    .section-1 img {
+        width: 100%;
+        padding: 0px 0;
+    }
+    .section-1 .img-2 {
+        
+        margin:0;
+    }
+
+    .section-5 {
+        width: 100%;
+        height: auto;
+        padding: 50px 0;
+    }
+
+    .sc-5 {
+        text-align: right;
+        transform: translateY(0);
+    }
+}
 
 @media (max-width: 360px){
     .carousel-item h1 {
