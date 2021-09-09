@@ -904,6 +904,10 @@ footer form button:hover {
     img.iv-1, img.iv-2 {
         width: 100%;
     }
+    .carousel-item h1 {
+        font-size: 75px;
+      
+    }
 }
 
 @media (max-width:1024px) {
