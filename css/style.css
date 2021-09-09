@@ -1014,7 +1014,7 @@ footer form button:hover {
     }
 }
 
-@media (max-width: 321px){
+@media (max-width: 360px){
     .carousel-item h1 {
         font-size: 19px;
     }
